@@ -1,5 +1,8 @@
 # Taller1HPC
-Daniel Felipe Velasquez Rincon Taller 1 manejo de C++
+Daniel Felipe Velasquez Rincon 
+
+Taller 1 manejo de C++
+
 Para despegar y ejecutar los archivos contenidos en este repositorio, es necesario lo siguiente: 
 * Tener descargado QT Creator
 
